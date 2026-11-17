@@ -48,8 +48,8 @@ La sécurité par ligne (**RLS**) est activée : chaque utilisateur ne voit et n
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/ibtissam-elkhotfi/My_APP.git
-cd My_APP
+git clone https://github.com/ibtissam-elkhotfi/novatech-ecommerce.git
+cd novatech-ecommerce
 
 # 2. Installer les dépendances
 bun install        # ou : npm install
